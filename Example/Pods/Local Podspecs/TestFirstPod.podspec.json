@@ -1,0 +1,25 @@
+{
+  "name": "TestFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestFirstPod.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TestFirstPod",
+  "license": "MIT",
+  "authors": {
+    "Syarif Silalahi": "syarif@pistarlabs.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/TestFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TestFirstPod": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
