@@ -1,15 +1,15 @@
 {
   "name": "TestFirstPod",
   "version": "0.1.0",
-  "summary": "A short description of TestFirstPod.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/TestFirstPod",
+  "summary": "A first time creating pod",
+  "description": "This pod is used to learn about how to create a good pod libraries",
+  "homepage": "https://github.com/SyarifSilalahi/TestFirstPod",
   "license": "MIT",
   "authors": {
     "Syarif Silalahi": "syarif@pistarlabs.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/TestFirstPod.git",
+    "git": "https://github.com/SyarifSilalahi/TestFirstPod.git",
     "tag": "0.1.0"
   },
   "platforms": {

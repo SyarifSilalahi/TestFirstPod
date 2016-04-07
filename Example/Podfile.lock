@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TestFirstPod: 5fc72cb694a1ac67f1f662e1c25886fa33b428fa
+  TestFirstPod: 82f034a5ab22e7e41daae1ca61b4ca0200f9da0b
 
 COCOAPODS: 0.39.0
